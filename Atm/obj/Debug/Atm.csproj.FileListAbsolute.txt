@@ -1,0 +1,7 @@
+C:\Users\Majid\source\repos\Atm\Atm\bin\Debug\Atm.exe.config
+C:\Users\Majid\source\repos\Atm\Atm\bin\Debug\Atm.exe
+C:\Users\Majid\source\repos\Atm\Atm\bin\Debug\Atm.pdb
+C:\Users\Majid\source\repos\Atm\Atm\obj\Debug\Atm.csprojAssemblyReference.cache
+C:\Users\Majid\source\repos\Atm\Atm\obj\Debug\Atm.csproj.CoreCompileInputs.cache
+C:\Users\Majid\source\repos\Atm\Atm\obj\Debug\Atm.exe
+C:\Users\Majid\source\repos\Atm\Atm\obj\Debug\Atm.pdb
